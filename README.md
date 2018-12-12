@@ -43,3 +43,11 @@
 1. Notebook (0%)
 2. Bibliography
     1. [Large-Step Markov Chains for the Traveling Salesman Problem...](http://www.cs.ubc.ca/labs/beta/Courses/CPSC532D-03/Resources/MarOttFel91.pdf)
+
+
+### Representation of TSP!
+1. [Splay trees](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.570&rep=rep1&type=pdf)
+    1. [Splay tree original paper](http://www.cs.cmu.edu/%7Esleator/papers/self-adjusting.pdf)
+    2. [Splay tree lecture](https://cglab.ca/~morin/teaching/5408/notes/splay.pdf)
+2. On the Performance of Data Structures - in the papers
+3. 
