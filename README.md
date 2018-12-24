@@ -49,5 +49,6 @@
 1. [Splay trees](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.570&rep=rep1&type=pdf)
     1. [Splay tree original paper](http://www.cs.cmu.edu/%7Esleator/papers/self-adjusting.pdf)
     2. [Splay tree lecture](https://cglab.ca/~morin/teaching/5408/notes/splay.pdf)
-2. On the Performance of Data Structures - in the papers
-3. 
+
+## Bibliography
+1. [TSP different approach](https://www2.seas.gwu.edu/~simhaweb/champalg/tsp/tsp.html)
