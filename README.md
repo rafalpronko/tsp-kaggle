@@ -5,6 +5,8 @@
 ### Genetic Algorithsm
 
 1. Notebook (80% ready)
+2. Bibliography
+   1. (Fast Genetic Algorithms)[https://arxiv.org/pdf/1703.03334.pdf]
 
 ### Nearest neighbour algorithm
 
