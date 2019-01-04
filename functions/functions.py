@@ -2,6 +2,12 @@ from numba import njit, prange
 from sympy import primerange
 import numpy as np
 
+@njit
+def dist_between_two_points(X, Y, alpha=1.0):
+    dst = np.hypot(X[1] - X[0],
+                   Y[1] - Y[0])
+    return dst * alpha
+
 
 @njit(parallel=True)
 def score_tour_numba(tour_, X, Y, primes):

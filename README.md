@@ -11,6 +11,8 @@
 ### Nearest neighbour algorithm
 
 1. Notebook (50% ready)
+2. Bibliography
+   1. (wiki)[https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm]
 
 ### Anneal
 
